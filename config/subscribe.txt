@@ -15,4 +15,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-
+https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u
