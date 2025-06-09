@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u
-
+https://ghfast.top/raw.githubusercontent.com/mytv-android/iptv-api/master/output/result.txt
 # 拾光｜影仓0312
 https://4708.kstore.space/svip/ITV.txt
 # 月光宝盒
