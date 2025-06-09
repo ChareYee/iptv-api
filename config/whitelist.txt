@@ -3,10 +3,6 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
-https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
-https://tv.iill.top/m3u/Gather
-
 台湾|TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 台湾|TVBS 欢乐台 （备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 台湾|TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
