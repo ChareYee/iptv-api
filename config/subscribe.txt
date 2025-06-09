@@ -1,14 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
-http://smt.iktv.ddns-ip.net/Smart.php
-https://fel.forxhr.top:2022/down.php/ffd769867d9207f9641336d45d2277f2.全球txt
-https://mpimg.cn/down.php/1cc967ebb95af61e470206f557c6d0f3.txt
-https://smt.iktv.ddns-ip.net/Smart.php
-https://smart.pendy.dpdns.org/m3u/Smart.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://pastebin.com/raw/mABDwJy1
+https://ghfast.top/raw.githubusercontent.com/mytv-android/iptv-api/master/output/result.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
@@ -23,7 +16,14 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u
-https://ghfast.top/raw.githubusercontent.com/mytv-android/iptv-api/master/output/result.txt
+http://smt.iktv.ddns-ip.net/Smart.php
+https://fel.forxhr.top:2022/down.php/ffd769867d9207f9641336d45d2277f2.全球txt
+https://mpimg.cn/down.php/1cc967ebb95af61e470206f557c6d0f3.txt
+https://smt.iktv.ddns-ip.net/Smart.php
+https://smart.pendy.dpdns.org/m3u/Smart.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://pastebin.com/raw/mABDwJy1
+https://cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
 # 拾光｜影仓0312
 https://4708.kstore.space/svip/ITV.txt
 # 月光宝盒
