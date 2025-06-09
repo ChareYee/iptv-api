@@ -1,29 +1,41 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://ghfast.top/raw.githubusercontent.com/mytv-android/iptv-api/master/output/result.txt
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u
-http://smt.iktv.ddns-ip.net/Smart.php
-https://fel.forxhr.top:2022/down.php/ffd769867d9207f9641336d45d2277f2.全球txt
-https://mpimg.cn/down.php/1cc967ebb95af61e470206f557c6d0f3.txt
-https://smt.iktv.ddns-ip.net/Smart.php
-https://smart.pendy.dpdns.org/m3u/Smart.m3u
+http://wx.thego.cn/df.txt
+http://wx.thego.cn/backup.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+#https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/st1.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
+https://www.cloudplains.cn/result.txt
+http://49.0.205.239:8866/Sub?type=txt
+https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/%E5%85%A8%E5%9B%BD.txt
+https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.m3u
+https://gitee.com/liliang74120/cxkj6863/raw/master/mySD
+http://8.138.7.223/v12.txt
+https://live.zbds.top/tv/iptv6.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://pastebin.com/raw/mABDwJy1
-https://cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://tv.iill.top/m3u/Gather
 # 拾光｜影仓0312
 https://4708.kstore.space/svip/ITV.txt
 # 月光宝盒
@@ -46,8 +58,6 @@ http://file.91kds.cn/tvlist/2025030711/kds_all_lnyd.txt
 https://4708.kstore.space/svip/ITV.txt
 # 小苹果，蜗牛线路[测试2]
 http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
-# 电视家9.0-2025
-http://8.138.7.223/2025.txt
 # 飞蓝电视free_1.1.1_免费版
 # http://api.mytv666.top/lives/free.php?type=txt
 # 流年直播
@@ -56,6 +66,3 @@ https://chuxinya.top/f/76vVIZ/流年直播源.txt
 http://live.nctv.top/x.txt
 # 猫TV 同源 肥猫 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)
 http://dd.rihou.cc:555/gggg.nzk
-# 宝全影院272-③猫TV线路(EXO)、④猫TV线路(IJK)  同源 猫TV 肥猫
-http://rihou.cc:567/gggg.nzk
-https://raw.githubusercontent.com/chunme/Live/main/hlj.m3u
